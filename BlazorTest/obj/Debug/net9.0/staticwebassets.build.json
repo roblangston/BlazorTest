@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "Hash": "Qxy3/ZTtfloVREKHi71OeiZpqW6KIdFsGH+8LvsIZZI=",
+  "Source": "BlazorTest",
+  "BasePath": "_content/BlazorTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorTest\\wwwroot",
+      "Source": "BlazorTest",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\",
+      "BasePath": "_content/BlazorTest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\502otpxx55-8inm30yfxf.gz",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\66blmsb4dr-x49fv2hhsg.gz",
+      "SourceId": "BlazorTest",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "BlazorTest#[.{fingerprint=x49fv2hhsg}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cz37nakylk",
+      "Integrity": "GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorTest.styles.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kd9tsecdrs-khy4lop6wu.gz",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "app#[.{fingerprint=khy4lop6wu}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "shxmjhlez9",
+      "Integrity": "8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kh3ek4gcw4-bpk8xqwxhs.gz",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n422kv52tm",
+      "Integrity": "R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\plwziuwxvy-x49fv2hhsg.gz",
+      "SourceId": "BlazorTest",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "BlazorTest#[.{fingerprint=x49fv2hhsg}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cz37nakylk",
+      "Integrity": "GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "SourceId": "BlazorTest",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "BlazorTest#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "x49fv2hhsg",
+      "Integrity": "AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorTest.styles.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "SourceId": "BlazorTest",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "BlazorTest#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "x49fv2hhsg",
+      "Integrity": "AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\app.css",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "khy4lop6wu",
+      "Integrity": "aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\favicon.png",
+      "SourceId": "BlazorTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\",
+      "BasePath": "_content/BlazorTest",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kd9tsecdrs-khy4lop6wu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000653167864"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kd9tsecdrs-khy4lop6wu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o="
+        }
+      ]
+    },
+    {
+      "Route": "app.khy4lop6wu.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kd9tsecdrs-khy4lop6wu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000653167864"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "khy4lop6wu"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+        }
+      ]
+    },
+    {
+      "Route": "app.khy4lop6wu.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "khy4lop6wu"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+        }
+      ]
+    },
+    {
+      "Route": "app.khy4lop6wu.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kd9tsecdrs-khy4lop6wu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "khy4lop6wu"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.bundle.scp.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\plwziuwxvy-x49fv2hhsg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000567214974"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.bundle.scp.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.bundle.scp.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\plwziuwxvy-x49fv2hhsg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.styles.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\66blmsb4dr-x49fv2hhsg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000567214974"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.styles.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.styles.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\66blmsb4dr-x49fv2hhsg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.x49fv2hhsg.bundle.scp.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\plwziuwxvy-x49fv2hhsg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000567214974"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49fv2hhsg"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTest.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.x49fv2hhsg.bundle.scp.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49fv2hhsg"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTest.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.x49fv2hhsg.bundle.scp.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\plwziuwxvy-x49fv2hhsg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49fv2hhsg"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTest.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.x49fv2hhsg.styles.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\66blmsb4dr-x49fv2hhsg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000567214974"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49fv2hhsg"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTest.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.x49fv2hhsg.styles.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49fv2hhsg"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTest.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfNIKeZFo5oCz+3z6uPPM8bqOUEjil25SU+1Lfu3kXY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTest.x49fv2hhsg.styles.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\66blmsb4dr-x49fv2hhsg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 18:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49fv2hhsg"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTest.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GFGMtzLfm/22JQ3BOaQQgC+AdbEWztboQa5lraZFag0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kh3ek4gcw4-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041853262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kh3ek4gcw4-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kh3ek4gcw4-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041853262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\502otpxx55-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\502otpxx55-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-gzip"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\kh3ek4gcw4-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\502otpxx55-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\obj\\Debug\\net9.0\\compressed\\502otpxx55-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-gzip"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Development\\Git\\BlazorTest\\src\\BlazorTest\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Sep 2024 15:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
