@@ -1,6 +1,0 @@
-services:
-  blazortest:
-    image: ${DOCKER_REGISTRY-}blazortest
-    build:
-      context: .
-      dockerfile: BlazorTest/Dockerfile
